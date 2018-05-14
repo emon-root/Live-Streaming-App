@@ -1,25 +1,25 @@
 [  
    {  
       "id":1,
-      "Name":"Channel 16",
+      "name":"Channel 16",
       "url":"https://www.youtube.com/watch?v=pqlEP91tS5M",
       "photo":"http://www.mediabangladesh.net/images/channel-16-tv-Bangladesh.jpeg"
    },
    {  
       "id":2,
-      "Name":"ATN Bangla",
+      "name":"ATN Bangla",
       "url":"https://www.youtube.com/watch?v=pqlEP91tS5M",
       "photo":"http://www.mediabangladesh.net/images/channel-16-tv-Bangladesh.jpeg"
    },
    {  
       "id":3,
-      "Name":"BTV",
+      "name":"BTV",
       "url":"https://www.youtube.com/watch?v=pqlEP91tS5M",
       "photo":"http://www.mediabangladesh.net/images/channel-16-tv-Bangladesh.jpeg"
    },
    {  
       "id":4,
-      "Name":"Rtv",
+      "name":"Rtv",
       "url":"https://www.youtube.com/watch?v=pqlEP91tS5M",
       "photo":"http://www.mediabangladesh.net/images/channel-16-tv-Bangladesh.jpeg"
    }
