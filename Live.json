@@ -1,34 +1,26 @@
 [  
    {  
-      "category":"Bangla",
-      "price":15.99,
-      "instructions":"Hello",
-      "photo":"moynarmaa.jpg",
-      "name":"Emon",
-      "productId":1
+      "id":1,
+      "Name":"Channel 16",
+      "url":"https://www.youtube.com/watch?v=pqlEP91tS5M",
+      "photo":"http://www.mediabangladesh.net/images/channel-16-tv-Bangladesh.jpeg"
    },
    {  
-      "category":"Bangla",
-      "price":33.99,
-      "instructions":"Hello",
-      "photo":"princess_flower.jpg",
-      "name":"Masud",
-      "productId":2
+      "id":2,
+      "Name":"ATN Bangla",
+      "url":"https://www.youtube.com/watch?v=pqlEP91tS5M",
+      "photo":"http://www.mediabangladesh.net/images/channel-16-tv-Bangladesh.jpeg"
    },
    {  
-      "category":"Bangla",
-      "price":5.99,
-      "instructions":"Hello",
-      "photo":"mona_lavender.jpg",
-      "name":"Shuhag",
-      "productId":3
+      "id":3,
+      "Name":"BTV",
+      "url":"https://www.youtube.com/watch?v=pqlEP91tS5M",
+      "photo":"http://www.mediabangladesh.net/images/channel-16-tv-Bangladesh.jpeg"
    },
    {  
-      "category":"Bangla",
-      "price":5.99,
-      "instructions":"Hello",
-      "photo":"mona_lavender.jpg",
-      "name":"Tanbir",
-      "productId":4
+      "id":4,
+      "Name":"Rtv",
+      "url":"https://www.youtube.com/watch?v=pqlEP91tS5M",
+      "photo":"http://www.mediabangladesh.net/images/channel-16-tv-Bangladesh.jpeg"
    }
 ]
