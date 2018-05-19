@@ -1,0 +1,100 @@
+{
+  "movies": [
+    {
+      "movie": "Avengers",
+      "tagline": "A new age begins",
+      "cast": [
+        {
+          "name": "Robert Downey Jr."
+        },
+        {
+          "name": "Chris Evans"
+        },
+        {
+          "name": "Mark Ruffalo"
+        }
+      ],
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
+     },
+    {
+      "movie": "Avengers",
+      "tagline": "A new age begins",
+      "cast": [
+        {
+          "name": "Robert Downey Jr."
+        },
+        {
+          "name": "Chris Evans"
+        },
+        {
+          "name": "Mark Ruffalo"
+        }
+      ],
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
+     },
+     {
+      "movie": "Avengers",
+      "tagline": "A new age begins",
+      "cast": [
+        {
+          "name": "Robert Downey Jr."
+        },
+        {
+          "name": "Chris Evans"
+        },
+        {
+          "name": "Mark Ruffalo"
+        }
+      ],
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
+     },
+     {
+      "movie": "Avengers",
+      "tagline": "A new age begins",
+      "cast": [
+        {
+          "name": "Robert Downey Jr."
+        },
+        {
+          "name": "Chris Evans"
+        },
+        {
+          "name": "Mark Ruffalo"
+        }
+      ],
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
+     },
+     {
+      "movie": "Avengers",
+      "tagline": "A new age begins",
+      "cast": [
+        {
+          "name": "Robert Downey Jr."
+        },
+        {
+          "name": "Chris Evans"
+        },
+        {
+          "name": "Mark Ruffalo"
+        }
+      ],
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
+     },
+     {
+      "movie": "Avengers",
+      "tagline": "A new age begins",
+      "cast": [
+        {
+          "name": "Robert Downey Jr."
+        },
+        {
+          "name": "Chris Evans"
+        },
+        {
+          "name": "Mark Ruffalo"
+        }
+      ],
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
+     }
+  ]
+}
