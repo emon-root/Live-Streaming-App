@@ -2,32 +2,32 @@
   "movies": [
     {
       "movie": "Avengers",
-      "tagline": "A new age begins",
+      "url": "A new age begins",
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
      },
     {
       "movie": "Avengers",
-      "tagline": "A new age begins",
+      "url": "A new age begins",
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
      },
      {
       "movie": "Avengers",
-      "tagline": "A new age begins",
+      "url": "A new age begins",
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
      },
      {
       "movie": "Avengers",
-      "tagline": "A new age begins",
+      "url": "A new age begins",
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
      },
      {
       "movie": "Avengers",
-      "tagline": "A new age begins",
+      "url": "A new age begins",
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
      },
      {
       "movie": "Avengers",
-      "tagline": "A new age begins",
+      "url": "A new age begins",
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
      }
   ]
